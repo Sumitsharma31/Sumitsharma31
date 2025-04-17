@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sumitsharma31
+- 👋 Hi, I’m Sumit Sharma
 - 👀 I’m interested in exploring new technologies and ideas.
 - 🌱 I’m currently learning web development and UI/UX Design.
 - 💞️ I’m looking to collaborate on open-source projects and innovative tech solutions.

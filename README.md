@@ -80,11 +80,11 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [ToDo-Without-Framework](https://github.com/Sumitsharma31/ToDo-Without-Framework) | Task manager built with vanilla JS | JavaScript |
-| [DigitalClock](https://github.com/Sumitsharma31/DigitalClock) | Real-time digital clock | JavaScript |
 | [AI-Recipe-Generator](https://github.com/Sumitsharma31/AI-Recipe-Generator) | AI-powered recipe app | JavaScript |
-| [hotel-room-management](https://github.com/Sumitsharma31/hotel-room-management) | Hotel booking system | JavaScript |
-
+| [portfolio](https://github.com/Sumitsharma31/portfolio) | Personal portfolio website | JavaScript |
+| [TypMeter](https://github.com/Sumitsharma31/TypMeter) | Typing speed test application | TypeScript |
+| [ZingQR](https://github.com/Sumitsharma31/ZingQR) | Free QR code generator | JavaScript |
+| [GenBlogs](https://github.com/Sumitsharma31/GenBlogs) | Blog generation platform | TypeScript |
 ---
 
 ## 📫 Let's Connect

@@ -3,10 +3,10 @@
 <div align="center">
 
 <!-- Animated header banner via Capsule Render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumit%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Web%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Open%20Source%20Enthusiast&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Sumit%20Sharma&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN)%20%7C%20Building%20Real-World%20Web%20Apps%20%7C%20Exploring%20Docker%20%26%20AWS&descAlignY=55&descSize=18)
 
 <!-- Animated typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Sumit+Sharma+%F0%9F%91%8B;Full+Stack+Developer+(MERN);Building+Real-World+Web+Apps;Exploring+Docker+%26+AWS;Open+Source+Contributor)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Sumit+Sharma!+%F0%9F%91%8B;Web+Developer+%26+UI%2FUX+Designer;Open+Source+Contributor;Always+learning+new+things+%F0%9F%9A%80)]()
 
 <!-- Profile views counter (SEO: tracks visibility) -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Sumitsharma31&color=58a6ff&style=flat-square&label=Profile+Views)

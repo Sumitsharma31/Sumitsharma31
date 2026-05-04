@@ -5,6 +5,10 @@
 <!-- Animated header banner via Capsule Render -->
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Sumit%20Sharma&height=180&fontSize=40)
 
+### Full Stack Developer (MERN)  
+Building Real-World Web Apps  
+Exploring Docker & AWS
+
 <!-- Animated typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Sumit+Sharma!+%F0%9F%91%8B;Web+Developer+%26+UI%2FUX+Designer;Open+Source+Contributor;Always+learning+new+things+%F0%9F%9A%80)]()
 

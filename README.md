@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated header banner via Capsule Render -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Sumit%20Sharma&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20(MERN)%20|%20Building%20Real-World%20Web%20Apps%20|%20Exploring%20Docker%20%26%20AWS&descAlignY=55&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&text=Sumit%20Sharma&height=180&fontSize=40)
 
 <!-- Animated typing SVG -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+there%2C+I'm+Sumit+Sharma!+%F0%9F%91%8B;Web+Developer+%26+UI%2FUX+Designer;Open+Source+Contributor;Always+learning+new+things+%F0%9F%9A%80)]()
